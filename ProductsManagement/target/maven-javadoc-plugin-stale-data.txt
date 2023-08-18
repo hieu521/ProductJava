@@ -1,0 +1,46 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'E:/labs/PROG191/projects/productManagement/ProductsManagement/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/labs/PROG191/projects/productManagement/ProductsManagement/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProductsManagement 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProductsManagement 1.0-SNAPSHOT API'
+com.mycompany.productsmanagement
+'E:/labs/PROG191/projects/productManagement/ProductsManagement/src/main/java/com/mycompany/productsmanagement/ProductsManagementForm.java'
+E:\labs\PROG191\projects\productManagement\ProductsManagement\src\main\java = 1660524931303
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\allclasses-index.html = 1660525094492
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\allpackages-index.html = 1660525094495
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\copy.svg = 1660525094517
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\element-list = 1660525094418
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\help-doc.html = 1660525094513
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\index-all.html = 1660525094507
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\index.html = 1660525094509
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\jquery-ui.overrides.css = 1660525094543
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\member-search-index.js = 1660525094498
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\module-search-index.js = 1660525094496
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\overview-tree.html = 1660525094482
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\package-search-index.js = 1660525094497
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\script.js = 1660525094516
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\search.js = 1660525094520
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\serialized-form.html = 1660525094468
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\stylesheet.css = 1660525094515
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\tag-search-index.js = 1660525094500
+E:\labs\PROG191\projects\productManagement\ProductsManagement\target\site\apidocs\type-search-index.js = 1660525094497
